@@ -1,0 +1,11 @@
+main
+	__CC2DW
+		____DoICP
+	mymsDelay
+	trafficLights
+		mymsDelay
+	Ambulance
+		mymsDelay
+	redAllLights
+		mymsDelay
+interrupt
