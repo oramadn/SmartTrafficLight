@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\omarr\Desktop\Uni stuff\Y4S2\Embedded Systems\ProjectFiles\TrafficLightProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\omarr\Desktop\Uni stuff\Y4S2\Embedded Systems\ProjectFiles\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "TrafficLightProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	TrafficLightProject.c
+diagnostics: 200	123	Compiled Successfully	TrafficLightProject.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 38 (11%)  Free RAM (bytes): 314 (89%)	Used RAM (bytes): 38 (11%)  Free RAM (bytes): 314 (89%)
+hint: 0	1144	Used ROM (program words): 692 (8%)  Free ROM (program words): 7500 (92%)	Used ROM (program words): 692 (8%)  Free ROM (program words): 7500 (92%)
+diagnostics: 0	125	Project Linked Successfully	TrafficLightProject.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'TrafficLightProject.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 04 Jun 2023, 13:44:13	TrafficLightProject.mcppi
